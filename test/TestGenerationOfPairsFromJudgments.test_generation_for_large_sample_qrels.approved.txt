@@ -1,0 +1,272 @@
+[
+    {
+        "id1": "doc-4",
+        "id2": "doc-3",
+        "query": "1",
+        "rankdiff": 2,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 4,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-2",
+        "id2": "doc-4",
+        "query": "1",
+        "rankdiff": 1,
+        "scorediff": 3.0,
+        "system": "original-qrels",
+        "upper_rank": 2,
+        "upper_score": 1.0
+    },
+    {
+        "id1": "doc-2",
+        "id2": "doc-3",
+        "query": "1",
+        "rankdiff": 3,
+        "scorediff": 4.0,
+        "system": "original-qrels",
+        "upper_rank": 4,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-2",
+        "id2": "doc-1",
+        "query": "1",
+        "rankdiff": 1,
+        "scorediff": 3.0,
+        "system": "original-qrels",
+        "upper_rank": 2,
+        "upper_score": 1.0
+    },
+    {
+        "id1": "doc-1",
+        "id2": "doc-3",
+        "query": "1",
+        "rankdiff": 2,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 4,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-1",
+        "id2": "doc-11",
+        "query": "2",
+        "rankdiff": 1,
+        "scorediff": 2.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-1",
+        "id2": "doc-12",
+        "query": "2",
+        "rankdiff": 1,
+        "scorediff": 2.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-2",
+        "id2": "doc-11",
+        "query": "2",
+        "rankdiff": 2,
+        "scorediff": 3.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-2",
+        "id2": "doc-12",
+        "query": "2",
+        "rankdiff": 2,
+        "scorediff": 3.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-2",
+        "id2": "doc-1",
+        "query": "2",
+        "rankdiff": 1,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 2,
+        "upper_score": 2.0
+    },
+    {
+        "id1": "doc-1",
+        "id2": "doc-2",
+        "query": "101",
+        "rankdiff": 2,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-1",
+        "id2": "doc-3",
+        "query": "101",
+        "rankdiff": 2,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-4",
+        "id2": "doc-2",
+        "query": "101",
+        "rankdiff": 2,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-4",
+        "id2": "doc-3",
+        "query": "101",
+        "rankdiff": 2,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-2",
+        "id2": "doc-4",
+        "query": "5",
+        "rankdiff": 1,
+        "scorediff": 2.0,
+        "system": "original-qrels",
+        "upper_rank": 2,
+        "upper_score": 1.0
+    },
+    {
+        "id1": "doc-100",
+        "id2": "doc-103",
+        "query": "77",
+        "rankdiff": 6,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 7,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-101",
+        "id2": "doc-103",
+        "query": "77",
+        "rankdiff": 6,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 7,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-102",
+        "id2": "doc-103",
+        "query": "77",
+        "rankdiff": 6,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 7,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-99",
+        "id2": "doc-103",
+        "query": "77",
+        "rankdiff": 6,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 7,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-12",
+        "id2": "doc-103",
+        "query": "77",
+        "rankdiff": 6,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 7,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-33",
+        "id2": "doc-103",
+        "query": "77",
+        "rankdiff": 6,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 7,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-103",
+        "id2": "doc-100",
+        "query": "78",
+        "rankdiff": 1,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 2,
+        "upper_score": 1.0
+    },
+    {
+        "id1": "doc-103",
+        "id2": "doc-101",
+        "query": "78",
+        "rankdiff": 1,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 2,
+        "upper_score": 1.0
+    },
+    {
+        "id1": "doc-103",
+        "id2": "doc-102",
+        "query": "78",
+        "rankdiff": 1,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 2,
+        "upper_score": 1.0
+    },
+    {
+        "id1": "doc-103",
+        "id2": "doc-99",
+        "query": "78",
+        "rankdiff": 1,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 2,
+        "upper_score": 1.0
+    },
+    {
+        "id1": "doc-103",
+        "id2": "doc-12",
+        "query": "78",
+        "rankdiff": 1,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 2,
+        "upper_score": 1.0
+    },
+    {
+        "id1": "doc-103",
+        "id2": "doc-33",
+        "query": "78",
+        "rankdiff": 1,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 2,
+        "upper_score": 1.0
+    }
+]

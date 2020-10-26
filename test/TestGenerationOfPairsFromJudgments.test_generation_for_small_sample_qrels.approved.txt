@@ -1,0 +1,42 @@
+[
+    {
+        "id1": "doc-1",
+        "id2": "doc-2",
+        "query": "101",
+        "rankdiff": 2,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-1",
+        "id2": "doc-3",
+        "query": "101",
+        "rankdiff": 2,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-4",
+        "id2": "doc-2",
+        "query": "101",
+        "rankdiff": 2,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    },
+    {
+        "id1": "doc-4",
+        "id2": "doc-3",
+        "query": "101",
+        "rankdiff": 2,
+        "scorediff": 1.0,
+        "system": "original-qrels",
+        "upper_rank": 3,
+        "upper_score": 0.0
+    }
+]

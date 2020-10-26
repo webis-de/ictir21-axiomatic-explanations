@@ -1,0 +1,4 @@
+<HASH_REMOVED>	{"query": "1136427", "system": "s1", "id1": "D1345527", "id2": "D1822834", "upper_rank": 2, "rankdiff": 1, "upper_score": 0.9, "scorediff": 0.09999999999999998}
+<HASH_REMOVED>	{"query": "1136427", "system": "s1", "id1": "D1345527", "id2": "D183343", "upper_rank": 3, "rankdiff": 2, "upper_score": 0.8, "scorediff": 0.19999999999999996}
+<HASH_REMOVED>	{"query": "1136427", "system": "s1", "id1": "D1822834", "id2": "D183343", "upper_rank": 3, "rankdiff": 1, "upper_score": 0.8, "scorediff": 0.09999999999999998}
+<HASH_REMOVED>	{"query": "11096", "system": "s2", "id1": "D440477", "id2": "D3172928", "upper_rank": 2, "rankdiff": 1, "upper_score": 0.9, "scorediff": 0.09999999999999998}

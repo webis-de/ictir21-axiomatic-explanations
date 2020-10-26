@@ -1,0 +1,12 @@
+[submodule "axiomatic-explainability/lib/fastText"]
+	path = axiomatic-explainability/lib/fastText
+	url = https://github.com/facebookresearch/fastText/
+[submodule "axiomatic-explainability/lib/Anserini"]
+	path = axiomatic-explainability/lib/Anserini
+	url = https://github.com/mam10eks/anserini.git
+[submodule "lib/fastText"]
+	path = lib/fastText
+	url = https://github.com/facebookresearch/fastText/
+[submodule "lib/Anserini"]
+	path = lib/Anserini
+	url = https://github.com/mam10eks/anserini.git

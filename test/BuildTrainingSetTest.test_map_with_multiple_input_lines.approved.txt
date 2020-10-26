@@ -1,0 +1,4 @@
+<HASH_REMOVED>	{"query": "690", "system": "s1", "id1": "FT944-12903", "id2": "LA110789-0114", "upper_rank": 2, "rankdiff": 1, "upper_score": 0.9, "scorediff": 0.09999999999999998}
+<HASH_REMOVED>	{"query": "690", "system": "s1", "id1": "FT944-12903", "id2": "FT931-16546", "upper_rank": 3, "rankdiff": 2, "upper_score": 0.8, "scorediff": 0.19999999999999996}
+<HASH_REMOVED>	{"query": "690", "system": "s1", "id1": "LA110789-0114", "id2": "FT931-16546", "upper_rank": 3, "rankdiff": 1, "upper_score": 0.8, "scorediff": 0.09999999999999998}
+<HASH_REMOVED>	{"query": "312", "system": "s2", "id1": "LA040289-0050", "id2": "FR941007-0-00016", "upper_rank": 2, "rankdiff": 1, "upper_score": 0.9, "scorediff": 0.09999999999999998}
