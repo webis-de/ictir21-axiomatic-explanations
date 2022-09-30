@@ -11,7 +11,7 @@ flask==1.1.1
 h5py==2.10.0
 itsdangerous==1.1.0
 jinja2==2.11.3
-joblib==0.14.1
+joblib==1.2.0
 kiwisolver==1.1.0
 lxml==4.9.1
 markupsafe==1.1.1
